@@ -1,5 +1,7 @@
 # solution-for-sorting-the-array-in-which-each-element-is-defined-as-a-b-
 
+## Name: Yash S. Tekade<br/> Roll No: 74<br> Section: A
+
 ### Aim
 Implement the solution for sorting the array in which each element is defined as [a,b] for example [2,3].
 
